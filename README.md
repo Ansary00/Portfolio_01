@@ -14,7 +14,7 @@ https://ansary00.github.io/Portfolio_01/
 - **About** — a short story plus an "at a glance" panel
 - **Education** — BSc in Computer Science & Engineering, Varendra University
 - **Skills** — HTML, CSS, C++, Python, Networking and Problem Solving
-- **Projects** — Student Management System, VLAN Network Design, Student Marketplace
+- **Projects** — Student Marketplace (featured)
 - **Photography** — responsive gallery with a keyboard-accessible lightbox
 - **Contact** — contact details and a form that opens a ready-to-send email draft
 
